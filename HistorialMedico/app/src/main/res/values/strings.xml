@@ -2,4 +2,6 @@
     <string name="app_name">Historial Medico</string>
     <string name="edit_message">Ingrese un mensaje</string>
     <string name="button_send">Enviar</string>
+    <string name="title_activity_login">Historial Medico</string>
+
 </resources>

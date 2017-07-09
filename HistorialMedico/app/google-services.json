@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "205362762368",
+    "firebase_url": "https://historialmedico-61d24.firebaseio.com",
+    "project_id": "historialmedico-61d24",
+    "storage_bucket": "historialmedico-61d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205362762368:android:c90f1034edef7ec3",
+        "android_client_info": {
+          "package_name": "com.example.historialmedico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205362762368-7e12dagkb27rudnrff40r62n0qgkt5qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.historialmedico",
+            "certificate_hash": "9aa634f1f786dfbfbe742f94a0649c0c37e3ca16"
+          }
+        },
+        {
+          "client_id": "205362762368-0ku0l4vu2t0cqe08bc0op470qkgal5g4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "205362762368-khav454ri823lvvgkstk1ldbhcm4457l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "205362762368-f1p2aga9umug5h8qfqgn6hr51d57vl0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.historialmedico",
+            "certificate_hash": "946f525b967a26024cd0301ed3eae677a3893450"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsm-V8x_L8lL0_YLNRBhako7YBhbHplR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205362762368-0ku0l4vu2t0cqe08bc0op470qkgal5g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
