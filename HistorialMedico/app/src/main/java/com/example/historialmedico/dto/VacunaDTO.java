@@ -11,7 +11,7 @@ public class VacunaDTO implements Serializable {
 
     private String nombre;
     private String aplicada;
-    private Date fecha;
+    private String fecha;
 
     public String getNombre() {
         return nombre;
@@ -29,11 +29,11 @@ public class VacunaDTO implements Serializable {
         this.aplicada = aplicada;
     }
 
-    public Date getFecha() {
+    public String getFecha() {
         return fecha;
     }
 
-    public void setFecha(Date fecha) {
+    public void setFecha(String fecha) {
         this.fecha = fecha;
     }
 

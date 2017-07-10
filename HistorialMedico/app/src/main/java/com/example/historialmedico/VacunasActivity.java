@@ -70,7 +70,6 @@ public class VacunasActivity extends AppCompatActivity {
             }
 
             if (response != null) {
-                Gson gson = new Gson();
 
                 Type listType = new TypeToken<ArrayList<VacunaDTO>>() {}.getType();
 
